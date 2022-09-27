@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+background-image: url(https://i.pinimg.com/originals/ea/86/48/ea86480f9297f2396de510a573edaa3a.png);
+}
+
+.container{
+    width:80%
+    margin 0 auto
+}
+
+#container img{
+    width: 30%;
+    margin: 3%;
+    height:200px;width:350px
+}
+
+#container img:hover{
+transform: scale(1.15);
+}
+
+h1{
+    margin: 3%;
+    font: size 40px;
+    border-bottom: 2px red;
+    width: 50%
+    
+}
